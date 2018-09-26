@@ -21,8 +21,6 @@
         "algorithm",
         "ios",
         "android",
-        "blockchain",
-        "compiler",
-        "swift"
+        "blockchain"
     ]
 }
